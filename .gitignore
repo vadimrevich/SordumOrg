@@ -28,7 +28,7 @@ SordumOrgSetup.exe
 
 # Windows Installer files
 *.cab
-*.msi
+#*.msi
 *.msm
 *.msp
 
